@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: rgba(34, 51, 143, 0.603);
+}
+
+.textfield, .checkbox{
+    margin-bottom: 10px;
+    display: block;
+}
+
+#resultBox{
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+button{
+    margin-top: 10px;
+    padding: 8px;
+}
